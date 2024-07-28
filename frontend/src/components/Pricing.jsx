@@ -32,7 +32,7 @@ const Pricing = () => {
               <img src={element.imgUrl} alt={element.title} />
               <div className="title">
                 <h1>{element.title}</h1>
-                <h1>PACKAGE</h1>
+                <h1>Package</h1>
                 <h3>Rs {element.price}</h3>
                 <p>For {element.length} Months</p>
               </div>
